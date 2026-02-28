@@ -25,4 +25,40 @@
 
 <img width="1906" height="124" alt="image" src="https://github.com/user-attachments/assets/72d5c6d1-ff7b-4486-acda-8d5e8da951e3" />
 <br><br>
+<br><br>
+
+
+# Foundations of Deep Learning - Assessment
+
+<img width="890" height="317" alt="Screenshot 2026-02-28 122748" src="https://github.com/user-attachments/assets/6ba593cd-f51f-406d-97eb-a31a2568d974" />
+<br><br>
+
+<img width="826" height="310" alt="Screenshot 2026-02-28 122752" src="https://github.com/user-attachments/assets/a1297de6-6379-44fc-b1bc-6c135ce9122d" />
+<br><br>
+
+<img width="753" height="294" alt="Screenshot 2026-02-28 122756" src="https://github.com/user-attachments/assets/e7b41345-ea7e-47a5-bf95-db236c7e4443" />
+<br><br>
+
+<img width="889" height="300" alt="Screenshot 2026-02-28 122800" src="https://github.com/user-attachments/assets/7a8e8c7a-bc0f-4bf3-aa55-e49fd5dc4946" />
+<br><br>
+
+<img width="962" height="286" alt="Screenshot 2026-02-28 122803" src="https://github.com/user-attachments/assets/7798a411-3bf0-41a1-88f4-4dbcc08df4ca" />
+<br><br>
+
+<img width="1024" height="365" alt="Screenshot 2026-02-28 122807" src="https://github.com/user-attachments/assets/6fa916ae-bfbe-465b-9f1e-316dbe368713" />
+<br><br>
+
+<img width="1898" height="218" alt="Screenshot 2026-02-28 122834" src="https://github.com/user-attachments/assets/8918a58e-109d-4ee2-898c-2f2b18f3d3d7" />
+<br><br>
+<br><br>
+
+
+
+
+
+
+
+
+
+
 
