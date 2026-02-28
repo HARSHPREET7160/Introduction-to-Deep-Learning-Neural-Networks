@@ -48,7 +48,7 @@
 <br><br>
 <br><br>
 
-# Module 1
+# Module 2
 <br><br>
 <img width="1125" height="451" alt="Screenshot 2026-02-28 124406" src="https://github.com/user-attachments/assets/e3e44261-d5ea-4fac-9e97-682ddf6e1602" />
 <br><br>
