@@ -48,6 +48,63 @@
 <br><br>
 <br><br>
 
+# Module 1
+<br><br>
+<img width="1125" height="451" alt="Screenshot 2026-02-28 124406" src="https://github.com/user-attachments/assets/e3e44261-d5ea-4fac-9e97-682ddf6e1602" />
+<br><br>
+
+<img width="955" height="312" alt="Screenshot 2026-02-28 124557" src="https://github.com/user-attachments/assets/81044619-49d4-4dd9-92f2-b3c238829d56" />
+<br><br>
+
+<img width="842" height="298" alt="Screenshot 2026-02-28 124618" src="https://github.com/user-attachments/assets/b5784e40-f15e-418b-bf92-4584ed9b6fa6" />
+<br><br>
+
+<img width="847" height="286" alt="Screenshot 2026-02-28 124635" src="https://github.com/user-attachments/assets/e53e7ba8-9a05-4df0-a6cc-9aaa1e5eedbc" />
+<br><br>
+
+<img width="1079" height="313" alt="Screenshot 2026-02-28 124657" src="https://github.com/user-attachments/assets/334cb19f-ee65-4007-a22f-98891e8d579d" />
+<br><br>
+
+<img width="1904" height="211" alt="Screenshot 2026-02-28 124720" src="https://github.com/user-attachments/assets/ccabf836-482c-4332-bc1d-150efadb3e1f" />
+<br><br>
+<br><br>
+
+## Advanced Deep Learning Techniques - Assessment
+<br><br>
+
+<img width="984" height="332" alt="Screenshot 2026-02-28 124817" src="https://github.com/user-attachments/assets/5ae41945-621e-4f8e-a9b8-d37e68ccd0c9" />
+<br><br>
+
+<img width="933" height="277" alt="Screenshot 2026-02-28 124833" src="https://github.com/user-attachments/assets/6e42d042-6e6a-4409-b7b2-aeb168806f09" />
+<br><br>
+
+<img width="1065" height="317" alt="Screenshot 2026-02-28 124912" src="https://github.com/user-attachments/assets/3e13a31b-cdcd-409a-aa1f-33ab528b6818" />
+<br><br>
+
+<img width="1020" height="309" alt="Screenshot 2026-02-28 124928" src="https://github.com/user-attachments/assets/09082798-6c5f-4785-8286-e4afdc82889f" />
+<br><br>
+
+<img width="1091" height="310" alt="Screenshot 2026-02-28 124949" src="https://github.com/user-attachments/assets/c93b7bc3-cd96-4578-a17c-a0ff0b718631" />
+<br><br>
+
+<img width="1903" height="216" alt="Screenshot 2026-02-28 125012" src="https://github.com/user-attachments/assets/8d65ad03-80e8-4b5d-8dad-6f6646ecf5fd" />
+<br><br>
+<br><br>
+<br><br>
+
+# COMPLETION CERTIFICATE
+<br><br>
+![Nvidea](https://github.com/user-attachments/assets/754d1fb5-5b91-4399-84bf-46b6030be1e9)
+
+
+
+
+
+
+
+
+
+
 
 
 
