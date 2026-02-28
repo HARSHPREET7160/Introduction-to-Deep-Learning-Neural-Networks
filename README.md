@@ -1,4 +1,4 @@
-# contains quiz and certificate
+# Contains quiz and certificate
 <br><br>
 
 # Module 1
